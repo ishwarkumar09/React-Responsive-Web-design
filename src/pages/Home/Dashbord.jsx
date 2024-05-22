@@ -31,7 +31,7 @@ function Dashbord() {
             </div>
           </div>
           <div className="flex justify-center items-center">
-            <div className="absolute top-56">
+            <div className="md:absolute top-56">
               <img
                 alt=""
                 loading="lazy"

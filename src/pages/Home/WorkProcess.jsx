@@ -3,7 +3,7 @@ import React from 'react'
 function WorkProcess() {
     return (
         <div>
-        <div className="lg:mt-[400px] md:mt-[500px] mt-[200px] container mx-auto px-5">
+        <div className="lg:mt-[400px] md:mt-[500px] mt-[100px] container mx-auto px-5">
           <div data-aos="zoom-in">
             <div className="flex items-center justify-center">
               <button className="text-[#3EA089] uppercase animate-fade animate-infinite animate-duration-[1000ms] animate-delay-1000 saira bg-[#EDF8F5] rounded-lg px-4 py-2 text-nowrap">work process</button>

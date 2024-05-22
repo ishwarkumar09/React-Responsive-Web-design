@@ -57,18 +57,6 @@ function StatisticsSection() {
           style={{ color: "transparent" }}
         />
       </div>
-      <div className="flex md:flex-row flex-col md:gap-0 gap-5 justify-between items-center mt-12 px-10">
-        <div className="md:w-[400px]" data-aos="fade-right">
-          <p className="poppins-regular">
-            TAPI Cashless offers multiple financial and payment services to ease the online transaction process.
-          </p>
-        </div>
-        <div data-aos="fade-left">
-          <button className="bg-[#3EA089] animate-bounce animate-infinite animate-duration-[4000ms] animate-delay-[4000ms] text-white rounded-lg px-3 py-2 uppercase poppins-regular hover:shadow-[0px_0px_4px_4px_rgba(0,0,0,0.2)] transition-all duration-500">
-            View more
-          </button>
-        </div>
-      </div>
     </div>
   );
 }
