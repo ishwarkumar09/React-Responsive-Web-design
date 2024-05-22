@@ -5,7 +5,7 @@ const Footer = () => {
 
   return (
     <div className="mt-5">
-      <div className="bg-cover py-10" style={{ backgroundImage: "url('../../public/images/footer1.webp')" }}>
+      <div className="bg-cover py-10" style={{ backgroundImage: "url('https://wallpapercave.com/wp/fy4t7NG.jpg')" }}>
         <div data-aos="fade-right" className="container mx-auto px-10 aos-init aos-animate">
           <div className="flex lg:flex-row flex-col lg:gap-0 gap-5 justify-between lg:items-end">
             <div>
